@@ -20,7 +20,7 @@ function addItems() {
   createItem(225, 500, 'poison');
   createItem(100, 250, 'coin');
   createItem(575, 150, 'coin');
-  createItem(525, 330, 'coin');
+  createItem(525, 330, 'poison');
   createItem(650, 250, 'coin');
   createItem(225, 200, 'coin');
   createItem(375, 100, 'poison');
